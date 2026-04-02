@@ -1,0 +1,19 @@
+spring:
+    application:
+        name: theatre-managing-system
+    profiles:
+        active: dev
+
+server:
+    port: 8080
+
+theatre:
+    reservation-hold-minutes: 15
+    default-page-size: 10
+    log-level: INFO
+    log-file: logs/theatre.log
+
+logging:
+    level:
+        root: WARN
+        com.fmi.webdevelopment.theatremanagingsystem: INFO

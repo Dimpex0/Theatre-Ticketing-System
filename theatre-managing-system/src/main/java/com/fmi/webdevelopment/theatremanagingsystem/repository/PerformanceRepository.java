@@ -1,6 +1,7 @@
 package com.fmi.webdevelopment.theatremanagingsystem.repository;
 
 import com.fmi.webdevelopment.theatremanagingsystem.domain.Performance;
+import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
