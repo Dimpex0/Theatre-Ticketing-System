@@ -1,6 +1,6 @@
 package com.fmi.webdevelopment.theatremanagingsystem.repository;
 
-import com.fmi.webdevelopment.theatremanagingsystem.model.Show;
+import com.fmi.webdevelopment.theatremanagingsystem.domain.Show;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.fmi.webdevelopment.theatremanagingsystem.model;
+package com.fmi.webdevelopment.theatremanagingsystem.domain;
 
 import java.util.Objects;
 

@@ -1,4 +1,7 @@
-package com.fmi.webdevelopment.theatremanagingsystem.model;
+package com.fmi.webdevelopment.theatremanagingsystem.domain;
+
+import com.fmi.webdevelopment.theatremanagingsystem.vo.AgeRating;
+import com.fmi.webdevelopment.theatremanagingsystem.vo.Genre;
 
 import java.util.Objects;
 
